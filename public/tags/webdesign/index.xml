@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>webdesign on Alice&#39;s Hugo Site</title>
+    <link>http://example.org/tags/webdesign/</link>
+    <description>Recent content in webdesign on Alice&#39;s Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jun 2021 09:30:09 +0800</lastBuildDate><atom:link href="http://example.org/tags/webdesign/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>部落格建置教學</title>
+      <link>http://example.org/2021/06/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%BB%BA%E7%BD%AE%E6%95%99%E5%AD%B8/</link>
+      <pubDate>Sat, 05 Jun 2021 09:30:09 +0800</pubDate>
+      
+      <guid>http://example.org/2021/06/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%BB%BA%E7%BD%AE%E6%95%99%E5%AD%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>0530架設hugo問題</title>
+      <link>http://example.org/2021/05/0530%E6%9E%B6%E8%A8%ADhugo%E5%95%8F%E9%A1%8C/</link>
+      <pubDate>Sun, 30 May 2021 11:34:13 +0800</pubDate>
+      
+      <guid>http://example.org/2021/05/0530%E6%9E%B6%E8%A8%ADhugo%E5%95%8F%E9%A1%8C/</guid>
+      <description>&lt;h1 id=&#34;這是一個&#34;&gt;這是一個&lt;/h1&gt;
+
+&lt;ul&gt;
+&lt;li&gt;build a lirrrrrrrrrrrrrrrrrrrrrrrrrojfiwja;ioj&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

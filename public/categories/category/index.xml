@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>category on Alice&#39;s Hugo Site</title>
+    <link>http://example.org/categories/category/</link>
+    <description>Recent content in category on Alice&#39;s Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jun 2021 10:32:19 +0800</lastBuildDate><atom:link href="http://example.org/categories/category/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>活動頁</title>
+      <link>http://example.org/page/%E6%B4%BB%E5%8B%95%E9%A0%81/</link>
+      <pubDate>Sat, 05 Jun 2021 10:32:19 +0800</pubDate>
+      
+      <guid>http://example.org/page/%E6%B4%BB%E5%8B%95%E9%A0%81/</guid>
+      <description> 這是一個活動頁 </description>
+    </item>
+    
+    <item>
+      <title>我會寫文章了</title>
+      <link>http://example.org/2021/06/%E6%88%91%E6%9C%83%E5%AF%AB%E6%96%87%E7%AB%A0%E4%BA%86/</link>
+      <pubDate>Sat, 05 Jun 2021 10:29:45 +0800</pubDate>
+      
+      <guid>http://example.org/2021/06/%E6%88%91%E6%9C%83%E5%AF%AB%E6%96%87%E7%AB%A0%E4%BA%86/</guid>
+      <description>&lt;h1 id=&#34;今天要跟大呀說&#34;&gt;今天要跟大呀說!!&lt;/h1&gt;
+
+&lt;p&gt;123456&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>芳療</title>
+      <link>http://example.org/2021/06/%E8%8A%B3%E7%99%82/</link>
+      <pubDate>Sat, 05 Jun 2021 09:55:55 +0800</pubDate>
+      
+      <guid>http://example.org/2021/06/%E8%8A%B3%E7%99%82/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4tu3QXj.png&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>部落格建置教學 2</title>
+      <link>http://example.org/2021/06/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%BB%BA%E7%BD%AE%E6%95%99%E5%AD%B8-2/</link>
+      <pubDate>Sat, 05 Jun 2021 09:40:44 +0800</pubDate>
+      
+      <guid>http://example.org/2021/06/%E9%83%A8%E8%90%BD%E6%A0%BC%E5%BB%BA%E7%BD%AE%E6%95%99%E5%AD%B8-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
